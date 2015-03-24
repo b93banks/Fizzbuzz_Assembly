@@ -2,7 +2,7 @@
 
 This is Fizzbuzz written in Assembly. I just did this for fun and for some assembly practice.
 
-The Fizzbuzz problem
+>The Fizzbuzz test
 >* Print the numbers 1-100
 >* If the number is a multiple of 3 print "Fizz", instead of the number
 >* If the number is a multiple of 5 print "Buzz", instead of the number
