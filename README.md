@@ -8,7 +8,7 @@ This is Fizzbuzz written in Assembly. I just did this for fun and for some assem
 >* If the number is a multiple of 5 print "Buzz", instead of the number
 >* For numbers which are multiples of both 3 and 5 print “FizzBuzz”
 
-Solving the problem in Assembly made me really focus on the logic for the problem.
+Solving the problem in Assembly made me really focus on the logic of the problem.
 
 Concepts used in this project:
 * MIPS Assembly Language
